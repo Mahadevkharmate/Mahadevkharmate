@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 ---
 
 ## 🧰 **Tech Stack**
-- ### Languages: 
-- Python, SQL, Bash.
-- ### ML/DL Frameworks: 
-- Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost.
-- ### Data Handling: 
+  ### Languages:   
+    - Python, SQL, Bash.  
+  ### ML/DL Frameworks:   
+   - Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost.
+- ### Data Handling:   
 - SQL, MongoDB, Pandas, NumPy.
 - ### Visualization: 
 - Matplotlib, Seaborn, Plotly, Power BI.
