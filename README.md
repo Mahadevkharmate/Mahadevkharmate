@@ -17,23 +17,26 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 - 📝 [GitHub](https://github.com/Mahadevkharmate).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:  I love turning complex data into simple, actionable insights!
+  
+---
 
 ## 🧰 **Tech Stack**
 ### Languages: 
-* Python, SQL, Bash
+- Python, SQL, Bash
 ### ML/DL Frameworks: 
-* Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
-## Data Handling: 
-* SQL, MongoDB, Pandas, NumPy
-## Visualization: 
-* Matplotlib, Seaborn, Plotly, Power BI
-## MLOps: 
-MLflow, DVC, Kubeflow, CI/CD pipelines(Git,GitHub Actions)
-## Tools & Technologies: 
-* Docker, AWS, FastAPI, Flask, Airflow,
-## Cloud & Deployment:
-* AWS, Google Cloud, Docker, Kubernetes
+- Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost
+### Data Handling: 
+- SQL, MongoDB, Pandas, NumPy
+### Visualization: 
+- Matplotlib, Seaborn, Plotly, Power BI
+### MLOps: 
+- MLflow, DVC, Kubeflow, CI/CD pipelines(Git,GitHub Actions)
+### Tools & Technologies: 
+- Docker, AWS, FastAPI, Flask, Airflow,
+### Cloud & Deployment:
+- AWS, Google Cloud, Docker, Kubernetes
 
+---
 
 ## 🤝 **Let's Connect**
 
