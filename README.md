@@ -1,6 +1,6 @@
 # Hi there, I'm Mahadev kharmate 👋
 
-### Machine Learning Engineer | AI Enthusiast | Data Scientist
+### Data Scientist | AI Enthusiast 
 
 Welcome to my GitHub profile! I'm passionate about building intelligent systems, solving complex problems, and leveraging data to drive impactful decisions. Here's a little about me:
 
@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 ## 🚀 **About Me**
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning projects**.
-- 🌱 I’m constantly learning about **Generative AI, NLP, and Computer Vision**.
-- 👯 I’m looking to collaborate on **open-source ML projects** and **research initiatives**.
+- 🌱 I’m constantly learning about **Computer Vision, NLP and Generative AI**.
+- 👯 I’m looking to collaborate on **open-source ML/DL projects** and **research initiatives**.
 - 🤔 I’m looking for help with ... **New Opportunity as a Data Scientist**
-- 💬 Ask me about **Machine Learning Algorithms,Python,MLOps,Structure for Projects, data pipelines,Database's or AI ethics**.
+- 💬 Ask me about **Machine Learning Algorithms, Deep Learning, computer vision, Python, MLOps, Structure for Projects, modular coding for projects, data pipelines,Database's or AI ethics**.
 - 📫 How to reach me: mahadev.mk294@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mahadev-kharmate/).
 - 📝 [GitHub](https://github.com/Mahadevkharmate).
 - 😄 Pronouns: He/Him.
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
   
 ---
 
-## 🧰 **Tech Stack**
+## 🧰 **I have technical experiance with following Tech Stack**
 **Languages:**   Python, SQL, Bash. 
 
 **ML/DL Frameworks:**  Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost. 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 
 **Tools & Technologies:** Docker, AWS, FastAPI, Flask, Airflow.  
 
-**Cloud & Deployment:** AWS, Google Cloud, Docker, Kubernetes.
+**Cloud & Deployment:** AWS, Google Cloud, Docker, Kubernetes, Azure.
 
 ---
 
